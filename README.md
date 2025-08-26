@@ -1,4 +1,4 @@
-\# 🎤 soberpack
+# 🎤 soberpack
 
 
 
@@ -6,19 +6,19 @@ A curated collection of original samples, loops, and synth presets crafted for a
 
 
 
-\## 🌌 Contents
+## 🌌 Contents
 
 
 
-\- `samples/` — WAV \& FLAC recordings of ambient textures, noise layers, and melodic loops
+- `samples/` — WAV \& FLAC recordings of ambient textures, noise layers, and melodic loops
 
-\- `presets/` — Synth patches for \[Vital](https://vital.audio), \[Helm](https://tytel.org/helm), and \[ZynAddSubFX](http://zynaddsubfx.sourceforge.net/)
+- `presets/` — Synth patches for \[Vital](https://vital.audio), \[Helm](https://tytel.org/helm), and \[ZynAddSubFX](http://zynaddsubfx.sourceforge.net/)
 
-\- `mood-notes/` — Descriptions and emotional context for each soundpack
+- `mood-notes/` — Descriptions and emotional context for each soundpack
 
 
 
-\## 🧠 Philosophy
+## 🧠 Philosophy
 
 
 
@@ -26,7 +26,7 @@ Each sound is a fragment of a moment—foggy mornings, neon reflections, or dist
 
 
 
-\## 📜 License
+## 📜 License
 
 
 
@@ -34,11 +34,12 @@ All content is released under the \*\*Creative Commons Attribution 4.0 Internati
 
 
 
-\## 💌 Credits
+## 💌 Credits
 
 
 
 Created by \[oksober](https://github.com/oksober)  
 
 Inspired by shoegaze, ambient, and the beauty of imperfection.
+
 
